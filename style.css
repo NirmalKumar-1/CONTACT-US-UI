@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red-line {
+    background-color: #D0131C;
+    height: 5px;
+    width: 80px;
+    margin: auto;
+}
+
+.woman-img {
+    width: 100%;
+    height: 100%;
+}
+
+.circle-box {
+    height: 60px;
+    width: 60px;
+    border: 2px solid rgba(255, 255, 255, 0.816);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.circle-box i {
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.53);
+}
+
+.black-box {
+    height: 265px;
+}
+
+.bg-dark {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #292D33;
+}
+
+.bg-dark h6 {
+    color: rgba(255, 255, 255, 0.518);
+    letter-spacing: 2px;
+}
+
+.bg-dark p {
+    color: rgba(255, 255, 255, 0.825);
+    font-size: 14px;
+}
+
+.bg-dark p a {
+    color: rgba(255, 255, 255, 0.825);
+}
+
+.contact-icons {
+    font-size: 18px;
+}
+
+.contact-icons i {
+    color: rgba(255, 255, 255, 0.967);
+}
